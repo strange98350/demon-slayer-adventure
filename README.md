@@ -13,5 +13,14 @@ A text-based adventure game inspired by the 'Demon Slayer' story. Players naviga
   ```bash
   git clone https://github.com/strange98350/demon-slayer-adventure.git
 
+## Navigate to the Game Directory:
+
+```bash
+  cd demon-slayer-adventure
+
+### Run the Game:
+-Ensure you have Python installed. Run the game using Python:
+```bash
+  python game.py
 
   
